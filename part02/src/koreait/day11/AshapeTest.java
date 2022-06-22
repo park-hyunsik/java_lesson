@@ -2,7 +2,7 @@ package koreait.day11;
 //main 메소드는 클래스로 만들어진 애플리케이션입니다. 추상클래스로 완성된 애플리케이션에서 새로운 추상메소드를 만들려면?
 import java.util.Set;
 
-public class AShapeTest {
+public class AshapeTest {
 
 	public static void main(String[] args) {
 		Triangle tri = new Triangle(100, 84);
